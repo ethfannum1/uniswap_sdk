@@ -6,20 +6,23 @@ Example of using Uniswap SDK.
 Take a look to the file 
     app.js
 
+
 ------------
 
-Previous steps:
-    1. 
+    Previous steps:
+    
+    1.
     npm i -y
     
     2.  
-    Install Uniswap SDK.
-    
-    npm i @uniswap/sdk
+        Install Uniswap SDK.
+        
+        npm i @uniswap/sdk
     
     3.
-    Install library. @ethersproject/address.
+        Install library. @ethersproject/address.
+        
+        npm i ethers
     
-    npm i ethers
-    
-    
+
+
