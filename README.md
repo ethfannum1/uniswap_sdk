@@ -12,7 +12,7 @@ Take a look to the file
     Previous steps:
     
     1.
-    npm i -y
+        npm i -y
     
     2.  
         Install Uniswap SDK.
